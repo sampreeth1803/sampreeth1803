@@ -351,11 +351,11 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:sampreeth.ta7458@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="www.linkedin.com/in/sampreeth-t-a-91902a3a7">
 <img src="https://img.shields.io/badge/LinkedIn-Network-6366F1?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -363,7 +363,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://framefolio.in/Sampreeth">
 <img src="https://img.shields.io/badge/Portfolio-Explore-4F46E5?style=for-the-badge"/>
 </a>
 
