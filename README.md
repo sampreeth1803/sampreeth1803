@@ -266,15 +266,21 @@ Scope of work:
 
 # GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=sampreeth1803&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sampreeth1803&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
+
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sampreeth1803&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampreeth1803&theme=midnight-purple&hide_border=true&layout=compact"/>
+
 
 </div>
 
@@ -282,12 +288,14 @@ Scope of work:
 
 # GitHub Trophies
 
+
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=algolia&no-frame=true&column=7"/>
+
 
 </div>
-
 ---
 
 # Contribution Activity
