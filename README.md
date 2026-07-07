@@ -28,15 +28,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/sampreeth1803">
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7c3aed"/>
-<img src="https://img.shields.io/github/followers/yourusername?style=flat-square&color=6366f1"/>
-<img src="https://img.shields.io/github/stars/yourusername?style=flat-square&color=8b5cf6"/>
+<img src="https://komarev.com/ghpvc/?username=sampreeth1803&style=flat-square&color=7c3aed"/>
+<img src="https://img.shields.io/github/followers/sampreeth1803?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/stars/sampreeth1803?style=flat-square&color=8b5cf6"/>
 
 </div>
 
@@ -136,7 +136,7 @@ AI-powered platform designed to analyze user skills, detect gaps, and recommend 
 | Performance | Optimized AI recommendation engine |
 | Security | Authentication and secure APIs |
 | Impact | Personalized career growth ecosystem |
-| Repository | https://github.com/yourusername/project |
+| Repository | https://github.com/sampreeth1803/project |
 
 Built with production-level architecture focusing on scalability, maintainability, and intelligent automation.
 
@@ -157,7 +157,7 @@ Modern cloud-ready application designed with scalable software engineering princ
 | Performance | Optimized backend workflows |
 | Security | Secure authorization systems |
 | Impact | Improved digital productivity |
-| Repository | https://github.com/yourusername/project |
+| Repository | https://github.com/sampreeth1803/project |
 
 Engineered using clean architecture principles and professional development workflows.
 
@@ -178,7 +178,7 @@ Automation platform integrating AI workflows to reduce repetitive operations.
 | Performance | Reduced manual processing |
 | Security | Safe API integrations |
 | Impact | Increased workflow efficiency |
-| Repository | https://github.com/yourusername/project |
+| Repository | https://github.com/sampreeth1803/project |
 
 Developed with focus on real-world automation and intelligent systems.
 
@@ -269,13 +269,13 @@ Scope of work:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampreeth1803&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
 
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampreeth1803&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -286,7 +286,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=discord&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -295,7 +295,7 @@ Scope of work:
 # Contribution Activity
 
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sampreeth1803&theme=react-dark&hide_border=true&area=true"/>
 
 ---
 
@@ -304,7 +304,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sampreeth1803/sampreeth1803/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -351,7 +351,7 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-Network-6366F1?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/sampreeth1803">
 <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
