@@ -263,44 +263,48 @@ Scope of work:
 </div>
 
 ---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampreeth1803&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=sampreeth1803&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampreeth1803&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sampreeth1803&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 
 </div>
----
-# GitHub Trophies
 
+---
+
+# GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 
 </div>
+
 ---
+
 # Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sampreeth1803&theme=react-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sampreeth1803&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
 
 </div>
+
 ---
 
 # Contribution Snake
 
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sampreeth1803/sampreeth1803/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/sampreeth1803/sampreeth1803/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
