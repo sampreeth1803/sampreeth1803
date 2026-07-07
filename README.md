@@ -1,4 +1,3 @@
-````markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4c1d95,50:7c3aed,100:312e81&text=Software%20Engineer%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
@@ -372,5 +371,3 @@ Engineering intelligent systems today to create the technology of tomorrow.
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312e81,50:7c3aed,100:4c1d95"/>
-
-````
