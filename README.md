@@ -263,40 +263,37 @@ Scope of work:
 </div>
 
 ---
-
 # GitHub Analytics
-
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampreeth1803&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sampreeth1803&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=sampreeth1803&theme=midnight-purple&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampreeth1803&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
-
 ---
 
 # GitHub Trophies
 
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=discord&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sampreeth1803&theme=discord&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
-
 # Contribution Activity
 
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sampreeth1803&theme=react-dark&hide_border=true&area=true"/>
 
+</div>
 ---
 
 # Contribution Snake
